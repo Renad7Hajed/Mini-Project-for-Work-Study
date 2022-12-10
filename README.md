@@ -1,5 +1,5 @@
 # Mini-Project-for-Work-Study
-A project for a Work Study course. I worked with 3 members, and I am the fourth. 
+A project for a Work Study course- Taif University. I worked with 3 members, and I am the fourth. 
 
 In this project, we applied motion study (method study) and time study (work measurement) to the process of assembling sawdust to form a decorative shingle, applied these two terms and then compared the results before and after the procedure. It mainly consists of two parts, study method and time.
 
